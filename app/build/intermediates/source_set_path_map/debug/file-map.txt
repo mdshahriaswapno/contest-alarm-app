@@ -1,0 +1,61 @@
+com.example.contestalarm.app-foundation-release-0 C:\Users\hp\.gradle\caches\transforms-3\06cd56676c1a6ce274af54a0d9f4a118\transformed\foundation-release\res
+com.example.contestalarm.app-activity-ktx-1.8.2-1 C:\Users\hp\.gradle\caches\transforms-3\0c035fd9ff73ccb930b0ac2f3afd853e\transformed\activity-ktx-1.8.2\res
+com.example.contestalarm.app-savedstate-1.2.1-2 C:\Users\hp\.gradle\caches\transforms-3\1031f8ac42ebab4cf7d3d48b1abfe1cc\transformed\savedstate-1.2.1\res
+com.example.contestalarm.app-lifecycle-runtime-ktx-2.7.0-3 C:\Users\hp\.gradle\caches\transforms-3\150818e500978a6328656d46238c2aee\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.contestalarm.app-animation-release-4 C:\Users\hp\.gradle\caches\transforms-3\164fb1542773b0efa43fa8153f9b0db8\transformed\animation-release\res
+com.example.contestalarm.app-activity-compose-1.8.2-5 C:\Users\hp\.gradle\caches\transforms-3\1947b86ab9de54a96a5fa17ee2225c3a\transformed\activity-compose-1.8.2\res
+com.example.contestalarm.app-ui-tooling-data-release-6 C:\Users\hp\.gradle\caches\transforms-3\199caa666bba49eef27fda3f9e089f48\transformed\ui-tooling-data-release\res
+com.example.contestalarm.app-lifecycle-viewmodel-savedstate-2.7.0-7 C:\Users\hp\.gradle\caches\transforms-3\26f75b98ef9967f1cfbd96fde2301f2e\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.contestalarm.app-activity-1.8.2-8 C:\Users\hp\.gradle\caches\transforms-3\2b2b50cdf832ce2d00c686193e039ba6\transformed\activity-1.8.2\res
+com.example.contestalarm.app-work-runtime-2.9.0-9 C:\Users\hp\.gradle\caches\transforms-3\2dc86c5e8d37e434d501669ed3235dea\transformed\work-runtime-2.9.0\res
+com.example.contestalarm.app-work-runtime-ktx-2.9.0-10 C:\Users\hp\.gradle\caches\transforms-3\3588eea401dd36ddc2066735feb5ae98\transformed\work-runtime-ktx-2.9.0\res
+com.example.contestalarm.app-material-ripple-release-11 C:\Users\hp\.gradle\caches\transforms-3\3b0105be2b785e4a8c71fa3e5567905d\transformed\material-ripple-release\res
+com.example.contestalarm.app-navigation-runtime-ktx-2.7.7-12 C:\Users\hp\.gradle\caches\transforms-3\3e5cb2a7d1f967a29342455796fb62f1\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.contestalarm.app-ui-graphics-release-13 C:\Users\hp\.gradle\caches\transforms-3\4132704781d7b09267313c3dde4e4b78\transformed\ui-graphics-release\res
+com.example.contestalarm.app-material-icons-core-release-14 C:\Users\hp\.gradle\caches\transforms-3\42b86142e08f892f075b52ac8de48bb6\transformed\material-icons-core-release\res
+com.example.contestalarm.app-emoji2-1.4.0-15 C:\Users\hp\.gradle\caches\transforms-3\435f7cde1029b15aaabeffe7170ce7ba\transformed\emoji2-1.4.0\res
+com.example.contestalarm.app-lifecycle-viewmodel-ktx-2.7.0-16 C:\Users\hp\.gradle\caches\transforms-3\447033b2f7a01ca50e7bc60b7ac86d77\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.contestalarm.app-navigation-runtime-2.7.7-17 C:\Users\hp\.gradle\caches\transforms-3\4a0b831fd621c9bc99695b9167f46918\transformed\navigation-runtime-2.7.7\res
+com.example.contestalarm.app-sqlite-2.4.0-18 C:\Users\hp\.gradle\caches\transforms-3\4d28d549efcec756568a8dcee9440957\transformed\sqlite-2.4.0\res
+com.example.contestalarm.app-lifecycle-service-2.7.0-19 C:\Users\hp\.gradle\caches\transforms-3\5069b21cee4f3108ba24635fe74babb8\transformed\lifecycle-service-2.7.0\res
+com.example.contestalarm.app-room-ktx-2.6.1-20 C:\Users\hp\.gradle\caches\transforms-3\5ba1ee5212f746ff26848c66fc1281a9\transformed\room-ktx-2.6.1\res
+com.example.contestalarm.app-lifecycle-viewmodel-2.7.0-21 C:\Users\hp\.gradle\caches\transforms-3\67e43b234ae994cba1805cddf5eb59cf\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.contestalarm.app-core-ktx-1.12.0-22 C:\Users\hp\.gradle\caches\transforms-3\692073b2cf83d004ed7a5c31f512f337\transformed\core-ktx-1.12.0\res
+com.example.contestalarm.app-core-1.12.0-23 C:\Users\hp\.gradle\caches\transforms-3\6997e79772870a03479846901546e16c\transformed\core-1.12.0\res
+com.example.contestalarm.app-navigation-compose-2.7.7-24 C:\Users\hp\.gradle\caches\transforms-3\6df277ba6ba5c656745f78d5e4af1cfa\transformed\navigation-compose-2.7.7\res
+com.example.contestalarm.app-room-runtime-2.6.1-25 C:\Users\hp\.gradle\caches\transforms-3\6eef28adb95e657e8682cc1b0d8a66fa\transformed\room-runtime-2.6.1\res
+com.example.contestalarm.app-ui-tooling-preview-release-26 C:\Users\hp\.gradle\caches\transforms-3\73bcf1b80f9a165dda46cc0d8937ff7d\transformed\ui-tooling-preview-release\res
+com.example.contestalarm.app-lifecycle-livedata-core-ktx-2.7.0-27 C:\Users\hp\.gradle\caches\transforms-3\76574a1df31e9e651f36b092643ef2a0\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.example.contestalarm.app-savedstate-ktx-1.2.1-28 C:\Users\hp\.gradle\caches\transforms-3\7765dde56397c4d0137f15517b39679c\transformed\savedstate-ktx-1.2.1\res
+com.example.contestalarm.app-ui-unit-release-29 C:\Users\hp\.gradle\caches\transforms-3\783e5211ed2aad52368701f5cd5e3db1\transformed\ui-unit-release\res
+com.example.contestalarm.app-sqlite-framework-2.4.0-30 C:\Users\hp\.gradle\caches\transforms-3\7a5c81dea5364d42a723e3667e2dc60f\transformed\sqlite-framework-2.4.0\res
+com.example.contestalarm.app-ui-util-release-31 C:\Users\hp\.gradle\caches\transforms-3\7a9a1ae9e5bae6a0b511400963fb9f4f\transformed\ui-util-release\res
+com.example.contestalarm.app-lifecycle-process-2.7.0-32 C:\Users\hp\.gradle\caches\transforms-3\819c8fec10ca9053e2fdc64084845c33\transformed\lifecycle-process-2.7.0\res
+com.example.contestalarm.app-navigation-common-2.7.7-33 C:\Users\hp\.gradle\caches\transforms-3\82170606dc9e145ed7fa9d6fcd2c017a\transformed\navigation-common-2.7.7\res
+com.example.contestalarm.app-material3-1.1.1-34 C:\Users\hp\.gradle\caches\transforms-3\89fa3fb6d03d9394a91e2458224e14c0\transformed\material3-1.1.1\res
+com.example.contestalarm.app-runtime-release-35 C:\Users\hp\.gradle\caches\transforms-3\8b4ad1fddd0b83f98b9ecffc2d4e5e1a\transformed\runtime-release\res
+com.example.contestalarm.app-runtime-saveable-release-36 C:\Users\hp\.gradle\caches\transforms-3\a22a0ed9eab2a4a6bc16814f7a8366b0\transformed\runtime-saveable-release\res
+com.example.contestalarm.app-ui-text-release-37 C:\Users\hp\.gradle\caches\transforms-3\a4b8f52699c74f65528fc49c1378038c\transformed\ui-text-release\res
+com.example.contestalarm.app-lifecycle-livedata-2.7.0-38 C:\Users\hp\.gradle\caches\transforms-3\b10cff7a195f11d6733e92ca6f86a8fe\transformed\lifecycle-livedata-2.7.0\res
+com.example.contestalarm.app-lifecycle-runtime-2.7.0-39 C:\Users\hp\.gradle\caches\transforms-3\b121796595e0c462b03ecfd9e04f5671\transformed\lifecycle-runtime-2.7.0\res
+com.example.contestalarm.app-ui-test-manifest-1.5.1-40 C:\Users\hp\.gradle\caches\transforms-3\b8d08c06d3926880949064439a47256a\transformed\ui-test-manifest-1.5.1\res
+com.example.contestalarm.app-lifecycle-livedata-core-2.7.0-41 C:\Users\hp\.gradle\caches\transforms-3\c08bb45a2be5069eb90349a6e1124e44\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.contestalarm.app-foundation-layout-release-42 C:\Users\hp\.gradle\caches\transforms-3\c3b65813ea456df7ba378d8cc467b09b\transformed\foundation-layout-release\res
+com.example.contestalarm.app-ui-tooling-release-43 C:\Users\hp\.gradle\caches\transforms-3\c92cbbc1957dceeffaf587d0f2098006\transformed\ui-tooling-release\res
+com.example.contestalarm.app-startup-runtime-1.1.1-44 C:\Users\hp\.gradle\caches\transforms-3\cf763b3dbc183d317a4f5b4dc779fc8b\transformed\startup-runtime-1.1.1\res
+com.example.contestalarm.app-core-runtime-2.2.0-45 C:\Users\hp\.gradle\caches\transforms-3\d3efb967cdf035af69445b47d34794f3\transformed\core-runtime-2.2.0\res
+com.example.contestalarm.app-animation-core-release-46 C:\Users\hp\.gradle\caches\transforms-3\d841e4ba31b9d98ad5d9c0587409272f\transformed\animation-core-release\res
+com.example.contestalarm.app-annotation-experimental-1.3.0-47 C:\Users\hp\.gradle\caches\transforms-3\e57e1e409ba943ea193717c101ffba10\transformed\annotation-experimental-1.3.0\res
+com.example.contestalarm.app-profileinstaller-1.3.0-48 C:\Users\hp\.gradle\caches\transforms-3\e58caff34ce1a3eba135ba65d58feff0\transformed\profileinstaller-1.3.0\res
+com.example.contestalarm.app-lifecycle-viewmodel-compose-2.7.0-49 C:\Users\hp\.gradle\caches\transforms-3\eb8adfe117ebdcbf946b38f34a6e25ea\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.example.contestalarm.app-ui-geometry-release-50 C:\Users\hp\.gradle\caches\transforms-3\eed5646088e5d15d0457bbaf2687c1ef\transformed\ui-geometry-release\res
+com.example.contestalarm.app-navigation-common-ktx-2.7.7-51 C:\Users\hp\.gradle\caches\transforms-3\f58d9950aeb15e9cb777884a60b48e3d\transformed\navigation-common-ktx-2.7.7\res
+com.example.contestalarm.app-material-release-52 C:\Users\hp\.gradle\caches\transforms-3\f9e3421d9b6eabf4f59aab6150bf96f1\transformed\material-release\res
+com.example.contestalarm.app-ui-release-53 C:\Users\hp\.gradle\caches\transforms-3\fda4dd73523cdce41480b9dacdb7449b\transformed\ui-release\res
+com.example.contestalarm.app-customview-poolingcontainer-1.0.0-54 C:\Users\hp\.gradle\caches\transforms-3\fda7d8854a7cddd1e8fb3ea3f67e3a21\transformed\customview-poolingcontainer-1.0.0\res
+com.example.contestalarm.app-resValues-55 F:\project vive\app\build\generated\res\resValues\debug
+com.example.contestalarm.app-packageDebugResources-56 F:\project vive\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.contestalarm.app-packageDebugResources-57 F:\project vive\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.contestalarm.app-merged_res-58 F:\project vive\app\build\intermediates\merged_res\debug
+com.example.contestalarm.app-debug-59 F:\project vive\app\src\debug\res
+com.example.contestalarm.app-main-60 F:\project vive\app\src\main\res

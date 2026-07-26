@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contest Alarm</string>
+    <style name="Theme.ContestAlarm" parent="android:Theme.Material.Light.NoActionBar">
+        
+        <item name="android:statusBarColor">#FF6200EE</item>
+    </style>
+    <style name="Theme.ContestAlarm.FullScreen" parent="Theme.ContestAlarm">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowKeepScreenOn">true</item>
+        <item name="android:showWhenLocked">true</item>
+        <item name="android:turnScreenOn">true</item>
+    </style>
+</resources>
