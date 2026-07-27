@@ -2,8 +2,9 @@ Contest Alarm App v1.0.0 is the first official release of the competitive progra
 
 ## Highlights
 - Automatic contest syncing from Codeforces, LeetCode, CodeChef, and AtCoder APIs.
+- Division-Wise Auto-Alarm Rules: Automatically schedule alarms for preferred contest divisions (Codeforces Div 1-4, Edu, AtCoder ABC/ARC/AGC, CodeChef Starters).
 - Custom & Regular Alarms: Set manual standalone alarms for any date and time with personal notes/labels.
-- Pre-contest exact alarms ringing 30 minutes before contest start time.
+- Pre-contest exact alarms ringing 30 minutes before contest start time (customizable offset).
 - Full-screen `AlarmActivity` waking up the display over lock screen with sound & vibration.
 - Local-first Room SQLite architecture (`custom_alarms` & `contests` tables) ensuring offline reliability.
 - Background WorkManager worker checking schedule updates every 6 hours.

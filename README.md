@@ -46,6 +46,7 @@ Contest Alarm App helps competitive programmers track upcoming contests from mul
 | Capability | What Contest Alarm App Provides |
 | :--- | :--- |
 | **Reliable Alarms** | Exact local scheduling, sound, vibration, lock-screen visibility, and Android screen wake |
+| **Division-Wise Auto-Alarms** | Auto-schedules alarms for preferred contest divisions (Codeforces Div 1-4/Edu, AtCoder ABC/ARC/AGC, CodeChef Starters) |
 | **Multi-Platform Auto-Sync** | Automatically syncs schedules from Codeforces, LeetCode, CodeChef, AtCoder, Kontests, and Clist APIs |
 | **Custom & Regular Alarms** | Set manual, standalone regular alarms for any date/time with custom personal notes |
 | **Local-First Data** | Contests, custom alarms, reminder states, and user preferences remain fully functional offline |
@@ -63,6 +64,14 @@ Contest Alarm App helps competitive programmers track upcoming contests from mul
 - Filter contests by platform (Codeforces, LeetCode, CodeChef, AtCoder, etc.).
 - Search contests by name or sort by starting time.
 - Individual toggle switches to enable or disable alarms per contest.
+
+### Division-Wise Auto-Alarm Rules
+- Configure automatic alarm triggers based on specific contest divisions:
+  - **Codeforces**: Div 1, Div 2, Div 3, Div 4, Educational, and Global Rounds.
+  - **AtCoder**: Beginner (ABC), Regular (ARC), and Grand Contests (AGC).
+  - **CodeChef**: Starters contests.
+- When new contests are synced, alarms are automatically scheduled for your selected divisions without manual toggling.
+- Customizable pre-alarm offset time (default 30 minutes, configurable in Settings).
 
 ### Custom & Regular Alarms with Notes
 - Set manual, standalone regular alarms for specific dates and times.
