@@ -47,7 +47,8 @@ Contest Alarm App helps competitive programmers track upcoming contests from mul
 | :--- | :--- |
 | **Reliable Alarms** | Exact local scheduling, sound, vibration, lock-screen visibility, and Android screen wake |
 | **Multi-Platform Auto-Sync** | Automatically syncs schedules from Codeforces, LeetCode, CodeChef, AtCoder, Kontests, and Clist APIs |
-| **Local-First Data** | Contests, reminder states, and user preferences remain fully functional offline |
+| **Custom & Regular Alarms** | Set manual, standalone regular alarms for any date/time with custom personal notes |
+| **Local-First Data** | Contests, custom alarms, reminder states, and user preferences remain fully functional offline |
 | **Reboot Resilience** | `BootReceiver` automatically recalculates and restores scheduled alarms upon device restart |
 | **Background Synchronization** | `WorkManager` handles periodic background sync every 6 hours with exponential retry logic |
 | **Modern Jetpack UI** | Material 3 interface built with Jetpack Compose, featuring platform filters and individual alarm switches |
@@ -63,13 +64,19 @@ Contest Alarm App helps competitive programmers track upcoming contests from mul
 - Search contests by name or sort by starting time.
 - Individual toggle switches to enable or disable alarms per contest.
 
+### Custom & Regular Alarms with Notes
+- Set manual, standalone regular alarms for specific dates and times.
+- Add personalized notes/labels to each alarm (e.g., "Codeforces Round prep", "Practice Session").
+- Persisted locally in Room Database (`custom_alarms` table) and scheduled via exact system `AlarmManager`.
+- Toggle, edit, or delete custom alarms anytime.
+
 ### Scheduling & Alarms
 - Pre-contest alarms scheduled 30 minutes before contest start time.
 - Uses Android `AlarmManager` with `setExactAndAllowWhileIdle` and exact alarm permissions (`SCHEDULE_EXACT_ALARM` / `USE_EXACT_ALARM`).
 - High-priority foreground service (`AlarmService`) for continuous sound playback and custom vibration patterns.
 
 ### Local-First Storage & Sync
-- Room Database persists contest entities locally and acts as the active runtime source of truth.
+- Room Database persists contest entities and custom alarm entries locally, serving as the active runtime source of truth.
 - `WorkManager` triggers periodic sync jobs in the background to update contest lists and clear expired events.
 
 ---

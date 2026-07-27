@@ -2,9 +2,10 @@ Contest Alarm App v1.0.0 is the first official release of the competitive progra
 
 ## Highlights
 - Automatic contest syncing from Codeforces, LeetCode, CodeChef, and AtCoder APIs.
+- Custom & Regular Alarms: Set manual standalone alarms for any date and time with personal notes/labels.
 - Pre-contest exact alarms ringing 30 minutes before contest start time.
 - Full-screen `AlarmActivity` waking up the display over lock screen with sound & vibration.
-- Local-first Room SQLite architecture ensuring offline reliability.
+- Local-first Room SQLite architecture (`custom_alarms` & `contests` tables) ensuring offline reliability.
 - Background WorkManager worker checking schedule updates every 6 hours.
 - Per-contest toggle controls and platform filter tabs in Jetpack Compose UI.
 
